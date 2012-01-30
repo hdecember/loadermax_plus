@@ -1,0 +1,2 @@
+扩展了Greensock的LoaderMax，整合了ZipLoader，可以加载完成后根据文件类型根据文件名后缀解压文件，同时对文件提供Cache功能。可以指定Cache大小，直接将加载的文件缓存在内存中，可以减少服务器请求。
+Extends LoaderMax. Integrate with ziploader, which can automaticly unzip files according to the filename extension. At the same time it provides cache function that will cache the file in memory and can response quickly to server requests.
